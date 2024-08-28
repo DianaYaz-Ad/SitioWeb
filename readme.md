@@ -21,7 +21,7 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla).
 
 ![Producto 5](assets/fv.png)
 
-![Contácto](assets/Contácto.png)
+![Contácto](assets/Contacto.png)
 
 ## Tecnologías 
 * HTML
